@@ -1,0 +1,7 @@
+project = libgumbo
+
+using version
+using config
+#using test
+using install
+using dist

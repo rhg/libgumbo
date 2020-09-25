@@ -1,0 +1,10 @@
+: 1
+name: libgumbo
+version: 1.0.0-a.0.z
+summary: gumbo-parser: disowned by google, packaged by me
+license: Apache-2.0
+description-file: README.md
+url: https://github.com/rhg/libgumbo
+email: ricardo.gomez331@gmail.com
+depends: * build2 >= 0.13.0
+depends: * bpkg >= 0.13.0

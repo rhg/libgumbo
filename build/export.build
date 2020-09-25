@@ -1,0 +1,6 @@
+$out_root/
+{
+  include libgumbo/
+}
+
+export $out_root/libgumbo/$import.target
