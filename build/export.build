@@ -1,6 +1,6 @@
 $out_root/
 {
-  include libgumbo/
+  include ./
 }
 
-export $out_root/libgumbo/$import.target
+export $out_root/$import.target
